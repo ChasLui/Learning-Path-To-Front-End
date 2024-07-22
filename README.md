@@ -14,9 +14,10 @@
 ### 设计软件
 > 前端工程师最首要的任务就是把设计师的设计图切好并翻译成代码，所以我们要学习一些设计软件的基础操作和切图方法。
 
-* Photoshop 运用最广泛的设计软件，大部分人都在用它，很有必要学习一下
-    * [前端工程师必备的PS技能——切图篇](http://link.zhihu.com/?target=http%3A//www.imooc.com/learn/506)
-
+* ~~Photoshop 运用最广泛的设计软件，大部分人都在用它，很有必要学习一下~~
+    * ~~[前端工程师必备的PS技能——切图篇](http://link.zhihu.com/?target=http%3A//www.imooc.com/learn/506)~~
+* Figma 是一款基于云端的在线协作设计工具，旨在帮助设计师和开发人员共同创建和编辑用户界面、原型和图形设计，支持实时协作和跨平台使用。
+    * [写给前端的 Figma 教程](https://juejin.cn/post/7218157956335632445)
 * Sketch 轻量且功能强大，切图迅速高效，为UI设计而生的Mac App
     * [Sketch切图教程](http://link.zhihu.com/?target=http%3A//www.sketchs.cn/tutorials/detail/257.html)
 
