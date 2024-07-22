@@ -107,10 +107,11 @@
     * [npm](http://link.zhihu.com/?target=https%3A//www.npmjs.com/)
         * [npm使用介绍](http://link.zhihu.com/?target=http%3A//www.runoob.com/nodejs/nodejs-npm.html)
         * [快速搭建 Node.js 开发环境以及加速 npm](http://link.zhihu.com/?target=https%3A//cnodejs.org/topic/5338c5db7cbade005b023c98)
-    * [Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/)
-        * [5分钟上手Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/%23quick-start)
-    * [RequireJS](http://link.zhihu.com/?target=http%3A//www.requirejs.cn/)
+    * ~~[Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/)~~
+        * ~~[5分钟上手Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/%23quick-start)~~
+    * ~~[RequireJS](http://link.zhihu.com/?target=http%3A//www.requirejs.cn/)~~
     * [ES6模块](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/articles/es6-in-depth-modules)
+    * [Commonjs](https://juejin.cn/post/7108410887052427301?searchId=20240722142844C2FFFCEB645415196AE9)
 * 预处理器
     * [Haml](http://link.zhihu.com/?target=http%3A//haml.info/)
         * [Tutorial](http://link.zhihu.com/?target=http%3A//haml.info/tutorial.html)
@@ -121,14 +122,14 @@
     * [TypeScript](http://link.zhihu.com/?target=https%3A//www.typescriptlang.org/)
         * [TypeScript Handbook（中文版）](http://link.zhihu.com/?target=https%3A//www.gitbook.com/book/zhongsp/typescript-handbook/details)
 * 框架
-    * [Angular学习教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/angularjs/angularjs-tutorial.html)
     * [Vue](http://link.zhihu.com/?target=https%3A//vuejs.org.cn/)
         * [vue.js教程](http://link.zhihu.com/?target=http%3A//wiki.jikexueyuan.com/project/vue-js/)
     * [React](http://link.zhihu.com/?target=http%3A//reactjs.cn/)
         * [入门实例教程](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2015/03/react.html)
         * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+    * [Angular学习教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/angularjs/angularjs-tutorial.html)
 * JavaScript 工具库
-    * [函数式编程](http://www.bootcss.com/p/underscore/)
+    * [Lodash](https://juejin.cn/post/7241171237601902647?searchId=2024072214312503C1653D18321E99662B)
 * 服务器端
     * [Nodejs](http://link.zhihu.com/?target=https%3A//nodejs.org/zh-cn/)
         * [Node入门](http://link.zhihu.com/?target=http%3A//www.nodebeginner.org/index-zh-cn.html)
