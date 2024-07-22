@@ -78,15 +78,9 @@
     * [CSS动画](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
     * [Canvas动画教程](http://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
     * [Learn to Create Animations in JavaScript](http://link.zhihu.com/?target=https%3A//www.kirupa.com/javascript_animations/index.htm)
-* Bootstrap
-    * [Bootstrap菜鸟教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/bootstrap/bootstrap-tutorial.html)
-    * [慕课网玩转Bootstrap](http://link.zhihu.com/?target=http%3A//www.imooc.com/view/141)
-* jQuery
-    * [jQuery菜鸟教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/jquery/jquery-tutorial.html)
-    * [慕课网jQuery基础](http://link.zhihu.com/?target=http%3A//www.imooc.com/course/list%3Fc%3Djquery%26is_easy%3D1)
-* Ajax
-    * [jQuery Ajax快速入门](http://link.zhihu.com/?target=http%3A//blog.qiubio.com%3A8080/archives/1467)
-    * [jQuery Ajax全解析](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/qleelulu/archive/2008/04/21/1163021.html)
+* [Ant Design](https://ant-design.antgroup.com/docs/react/getting-started-cn)
+* [Element Plus](https://element-plus.org/zh-CN/guide/dev-guide.html)
+* [Axios](https://axios-http.com/zh/docs/intro)
 ## 高级知识
 * [w3c标准](http://link.zhihu.com/?target=https%3A//www.w3.org/standards/)
     * [Web Platform Docs](http://link.zhihu.com/?target=https%3A//docs.webplatform.org/wiki/Main_Page)
